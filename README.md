@@ -40,20 +40,20 @@ stock-dash-master/
 📦 Installation & Setup
 
 1. Clone the Repository
-   # git clone https://github.com/sunkaravenkatamahendra/Stock-price.gitcd Stock-price
+   ### git clone https://github.com/sunkaravenkatamahendra/Stock-price.gitcd Stock-price
 
 2. Install Dependencies
-  # pip install -r requirements.txt
+  ### pip install -r requirements.txt
    
 3. Run the Application
-   # python app.py
+   ### python app.py
 
 🚀 Deployment (Heroku)
 
 To deploy on Heroku, follow these steps:
-# git add .
-# git commit -m "Deploying Stock Dashboard"
-# git push heroku main
+### git add .
+### git commit -m "Deploying Stock Dashboard"
+### git push heroku main
 
 
 
